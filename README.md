@@ -26,4 +26,5 @@ Here are some screen shots of the project.
 
 ![5](https://user-images.githubusercontent.com/19304394/41728850-a134f946-7599-11e8-8cd2-91e9a706a5a8.png)
 
-![6](https://user-images.githubusercontent.com/19304394/41728866-aad22e56-7599-11e8-9549-420aaa0ad1e3.png)
+
+![6](https://user-images.githubusercontent.com/19304394/41729002-fd77f032-7599-11e8-83e1-15e805556bbb.png)
